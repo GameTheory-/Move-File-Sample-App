@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SPEEDDEV</string>
+    <string name="info1">This app is for educational purposes to show how to request read/write permission at runtime and how to copy files from/to destination.</string>
+    <string name="info2">The button below will create both a folder called MyNewFolder on SD card and a file called sample.txt outside of this folder and move it into the folder.</string>
+    <string name="copyfilebutton">COPY FILE</string>
+    <string name="info3">To turn this into production code you should add some logic. For example, allow the user to choose which file to copy and also create the destination folder of their choosing.</string>
+</resources>
